@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 /* ========================================== TAILWIND STYLES */
+* {
+      font-family: "Martian Mono", monospace;
+}
 @layer base {
       /* Remove scrollbar */
       .remove-scrollbar::-webkit-scrollbar {
