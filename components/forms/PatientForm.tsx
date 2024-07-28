@@ -59,7 +59,7 @@ const PatientForm = () => {
                               <p className="text-dark-700">Schedule your first appoinment</p>
                         </section>
                         <CustomFormField
-                              name="username"
+                              name="name"
                               label="Full Name"
                               placeholder="ar-xyz"
                               iconSrc="assets/icons/user.svg"
